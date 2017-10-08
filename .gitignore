@@ -1,0 +1,9 @@
+.repo
+.ropeproject
+.env
+
+*.sqlite3
+*.pyc
+*~
+__pycache__
+
