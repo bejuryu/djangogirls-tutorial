@@ -25,7 +25,7 @@ SECRET_KEY = '8fk-9)65tknvo#j0q_h@t=dd73jb805#%+*cwsw5niaw%!+c8@'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['0.0.0.0', '*.pythonanywhere.com', 'chakan.crossharp.net']
+ALLOWED_HOSTS = ['0.0.0.0', '.pythonanywhere.com', 'chakan.crossharp.net']
 
 
 # Application definition
